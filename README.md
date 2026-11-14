@@ -43,3 +43,7 @@ pnpm test
 pnpm lint
 pnpm build
 ```
+
+## 开发状态
+
+**暂缓开发** · 这套标签分类主要服务于 Illustrious 的提示词工作流。本机的图像生成工作流已经切换到 Moss Image，目前对这套标签体系的需求较低，暂缓继续开发。
